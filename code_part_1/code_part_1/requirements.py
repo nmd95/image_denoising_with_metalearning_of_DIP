@@ -1,0 +1,11 @@
+pip install torch
+pip install torchvision
+pip install torchmetrics
+pip install json
+pip install imageio
+pip install getpass
+pip install argparse
+pip install matplotlib
+pip install pyplot
+pip install glob
+pip install numpy
