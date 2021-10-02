@@ -1,9 +1,0 @@
-pip install torch
-pip install numpy 
-pip install pyplot
-pip install -q optax
-pip install -q git+https://github.com/deepmind/dm-haiku
-pip install tqdm
-pip install tensorflow
-pip install pickle
-pip install functools
