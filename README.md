@@ -15,3 +15,8 @@
 ![image](https://user-images.githubusercontent.com/46507715/135724246-d1ae1277-7e20-4e35-89a7-fa574a25ec05.png)
 
 * Note that a checkpoint to the meta-learned initialization we used in the experiment is included in this repository: "meta_weights.pkl" - and can be used to run the main experiment in part two.
+
+* The data for part one's experiments is stored in the repository under "part_1_images.zip" and should be extracted and kept in the following directory structure:
+![image](https://user-images.githubusercontent.com/46507715/135724614-36e69364-8c40-4b5b-98b6-2339c83d8fe4.png)
+- That is, the should be 100 sub-directories with the pairs of clean and noisy images corresponding to their numbering stored in each.
+
